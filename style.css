@@ -1,0 +1,32 @@
+.logo{
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    width: 100%;
+}
+
+.olx{
+    font-weight: bold;
+}
+.sublogos{
+    gap: 5px;
+    display: flex;
+}
+.sublogos span{
+    font-weight: bold;
+}
+.cars{
+    gap: 10px;
+    cursor: pointer;
+}
+.cars:hover{
+    color: blue;
+}
+.property{
+    gap: 10px;
+    cursor: pointer;
+}
+.property:hover{
+    color: blue;
+}
