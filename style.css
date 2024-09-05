@@ -110,26 +110,7 @@ select#location {
     position: relative;
     pointer-events: auto;
     background-color: transparent;
-    
-}
-/* .sellbar button::after{
-    background-color: transparent;
-    border-radius: 2.4rem;
-    content: "";
-    z-index: -1;
-    position: absolute;
     border: none;
-} */
-.sellbar button::after{
-    background-color: transparent;
-    border-radius: 2.4rem;
-    content: "";
-    height: 4.4rem;
-    left: .3rem;
-    position: absolute;
-    top: .2rem;
-    width: 9.4rem;
-    z-index: -1;
 }
 .sellbuttonbackground{
     width: 5.4rem;
